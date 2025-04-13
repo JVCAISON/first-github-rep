@@ -1,2 +1,70 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <section>
+      <nav>
+        <img src=""C:\Users\joeyc\OneDrive\Documents\GitHub\Html-2.html\HTML Practise Assets\FES.svg"" alt="" />
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#discord">Discord</a></li>
+          <li><a href="#Contact">Contact</a></li>
+        </ul>
+      </nav>
+      <header>
+        <div>
+          <h1>The best place to learn frontend</h1>
+          <p>Go from being a beginner to a pro</p>
+          <button>start now!</button>
+        </div>
+      </header>
+    </section>
+    <main>
+      <section id="about">
+        <h2>About</h2>
+        <div>
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus id
+            eveniet repellendus, iusto aliquid asperiores a doloribus dicta unde
+            aspernatur corrupti itaque harum deserunt maiores illo et
+            consequatur ipsum quae.
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
+            optio, enim sit perspiciatis vel modi alias aliquam nobis nostrum
+            ipsa ipsam similique deserunt iusto nemo amet quia quasi ut?
+            Tempore.
+          </p>
+        </div>
+        <figure>
+          <img src="" alt="" />
+        </figure>
+      </section>     
+      
+      <section></section>
+      
+      <section id="Contact">
+        <h2>Contact</h2>
+          <form action="">
+            <span>Email</span>
+            <input type="text" placeholder="Just@example.com">
+            <span>Message</span>
+          </form>
+      </section>
+    </main>
+  
+    <footer>
+        <img src="" alt="">
+         <ol>
+            <li>About</li>
+            <li>Location</li>
+         </ol>
+    </footer>
+
+
+</body>
+</html>
